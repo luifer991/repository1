@@ -34,7 +34,7 @@ The following visualizations are included in this repository:
 A Power BI dashboard has also been created to visualize the data in a more interactive and user-friendly way. You can view the dashboard by clicking on this https://onx.la/71e87.
 
 ## Author
-This analysis was performed by Jorge Luis Morales Cruz. If you have any questions or feedback, please feel free to reach out to me.
+This analysis was performed by [Jorge Morales](https://www.linkedin.com/in/jorge-morales-cruz/). If you have any questions or feedback, please feel free to reach out to me.
 
 
 
